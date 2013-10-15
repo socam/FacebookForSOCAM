@@ -1,0 +1,12 @@
+kasvopus (1.2.2) unstable; urgency=low
+
+  * Places and checkins support
+  * Minimize on N900
+  * Logout support
+
+ -- unknown <tlaukkanen@gmail.com>  Mon, 13 Jun 2011 22:25:02 +0300
+kasvopus (1.2.2) unstable; urgency=low
+
+  * Initial Release.
+
+ -- unknown <tommi@unknown>  Sat, 26 Feb 2011 10:35:02 +0200

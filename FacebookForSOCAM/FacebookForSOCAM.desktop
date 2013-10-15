@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.2
+Type=Application
+Terminal=false
+Name=FacebookForSOCAM
+Exec=/opt/FacebookForSOCAM/bin/FacebookForSOCAM
+Icon=FacebookForSOCAM
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

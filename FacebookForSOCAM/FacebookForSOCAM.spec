@@ -12,7 +12,7 @@ Summary:    Facebook client for SOCAM
 Version:    1.2.3
 Release:    1
 Group:      Applications/Internet
-License:    TBD
+License:    LGPLv3
 URL:        https://github.com/socam/facebookforsocam
 Source0:    %{name}-%{version}.tar.bz2
 #Requires:  pkgconfig(QtCore) >= 4.7.0
